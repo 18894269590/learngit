@@ -1,9 +1,11 @@
 Git is not a version control system.
 Git is not free sftwae.
 wqs
-wm.
-Git has a mutable index called stage
-Ceating a new banch is quick AND simple..
+
+Gt has a mutable index called stage
+Gt tracks changes of files..
+Creating a new branch is quick.
 
 wqsss.
 & simple
+feature2
