@@ -3,5 +3,5 @@ Git is free software
 wqs
 wm.
 Git has a mutable index called stage
-Git tracks changes.
+Git tracks changes of files..
 .
